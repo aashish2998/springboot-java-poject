@@ -1,6 +1,6 @@
-To run the cmd  : java -jar target/spring-boot-web.jar 
+To Access the application run the cmd  : java -jar target/spring-boot-web.jar 
 
-#But before that please perform  do these steps :
+#But before that please perform  these steps :
 - sudo apt-get update -y
 - sudo apt install openjdk-11-jre -y
 - sudo apt-get install maven -y
@@ -8,7 +8,7 @@ To run the cmd  : java -jar target/spring-boot-web.jar
 #To check if java and maven are installed :
 - java --version  and mvn --version
 
-# git clone this repository 
+# git clone the repository 
 - cd springboot-java-poject
   
 # Steps for maven automation
