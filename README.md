@@ -1,4 +1,4 @@
-to run the cmd  : java -jar target/spring-boot-web.jar 
+To run the cmd  : java -jar target/spring-boot-web.jar 
 
 #But before that please perform  do these steps :
 - sudo apt-get update -y
@@ -20,7 +20,8 @@ to run the cmd  : java -jar target/spring-boot-web.jar
 - mvn deploy
 - mvn clean ->  to clean the target repo created
 
-# After the mvn install cmd  ( inside target folder spring-boot-wen.jar is installed in .m2 local repository(all the plugin and dependencies are installed in it)  
+# After the mvn install cmd 
+-( inside target folder spring-boot-wen.jar is installed in .m2 local repository(all the plugin and dependencies are installed in it)  
 
 
 
